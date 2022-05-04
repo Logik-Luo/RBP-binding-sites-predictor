@@ -13,6 +13,9 @@ model文件夹存放的是深度学习预实验，有cnn（有/无池化层）,g
 
 关于PDBinter的源数据，来自http://doc.aporc.org/wiki/PRNAinter
 
+请在链接：https://pan.baidu.com/s/1BI4rraGAEnGltTunn9iLwg（提取码：13vc） 
+获取'fasta''pdb''pssm''uniref'文件夹，置入文件夹'RBP-binding-sites-predictor'下
+
 
 English:
 ·Task: obtain the binding site in the known RNA protein pairing, obtain the detailed feature engineering construction process in the 'generate your feature vector' file, and then you can directly call any of our 'comparison of DL and ML' models to start prediction
@@ -30,3 +33,6 @@ English:
 ·For the use of the AutoML platform, see https://github.com/mljar/mljar-supervised
 
 ·About the source data of PDBinter, see http://doc.aporc.org/wiki/PRNAinter
+
+Please link: https://pan.baidu.com/s/1BI4rraGAEnGltTunn9iLwg (extraction code: 13VC)
+Get the 'FASTA' 'PDB' 'PSSM' 'uniref' folder and put it under the folder 'RBP binding sites predictor'
