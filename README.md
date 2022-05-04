@@ -23,8 +23,8 @@ English:
 
 ·To build your dataset, run 'gen directly_ feature_ V2', before that:
 
-	Generate PSSM matrix of your sequence;
-	Upload the sequence to paleale4 0 to obtain secondary structure and solvent accessibility;
+	Generate PSSM matrix of your sequence using pssm.py;
+	Upload the sequence to paleale4.0 to obtain secondary structure and solvent accessibility;
 	Use Python's PDB toolkit to obtain the PDB atomic coordinate file of your sequence
 
 ·For the use of the AutoML platform, see https://github.com/mljar/mljar-supervised
