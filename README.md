@@ -13,7 +13,7 @@ model文件夹存放的是深度学习预实验，有cnn（有/无池化层）,g
 
 关于PDBinter的源数据，来自http://doc.aporc.org/wiki/PRNAinter
 
-请在链接：https://pan.baidu.com/s/1BI4rraGAEnGltTunn9iLwg（提取码：13vc） 
+请在链接：https://pan.baidu.com/s/1nV4AJSr4tGqzHZsOmXDY4Q（提取码：qdrq） 
 获取'fasta''pdb''pssm''uniref'文件夹，置入文件夹'RBP-binding-sites-predictor'下
 
 
@@ -34,5 +34,5 @@ English:
 
 ·About the source data of PDBinter, see http://doc.aporc.org/wiki/PRNAinter
 
-Please link: https://pan.baidu.com/s/1BI4rraGAEnGltTunn9iLwg (extraction code: 13VC)
+Please link: https://pan.baidu.com/s/1nV4AJSr4tGqzHZsOmXDY4Q (extraction code: qdrq)
 Get the 'FASTA' 'PDB' 'PSSM' 'uniref' folder and put it under the folder 'RBP binding sites predictor'
