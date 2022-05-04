@@ -18,6 +18,7 @@ model文件夹存放的是深度学习预实验，有cnn（有/无池化层）,g
 
 
 English:
+
 ·Task: obtain the binding site in the known RNA protein pairing, obtain the detailed feature engineering construction process in the 'generate your feature vector' file, and then you can directly call any of our 'comparison of DL and ML' models to start prediction
 
 ·The 'model' folder stores the pre experiment of deep learning
